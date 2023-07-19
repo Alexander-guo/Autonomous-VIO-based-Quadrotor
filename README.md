@@ -3,6 +3,7 @@ This project is the simulation of Stereo Visual Inertial Odometry (VIO) on a qua
 <p align="center">
   <img src="proj/img/test_window.gif" width="600">
 </p>
+
 ## Pipeline
 * A\* algorithm for shortest path searching and minimum snap for trajectory smoothing
 * Geometric Nonlinear Controller for trajectory tracking 
